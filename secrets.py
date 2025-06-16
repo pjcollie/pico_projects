@@ -1,0 +1,3 @@
+# secrets.py
+SSID = 'YOUR_WIFI_SSID'
+PASSWORD = 'YOUR_WIFI_PASSWORD'
